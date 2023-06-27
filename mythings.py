@@ -5,7 +5,7 @@ from utils.thing_info import ThingInfo
 
 root = Tk(screenName="My Things", baseName="main window")
 root.title("My Things To Remember")
-root.geometry("500x350")
+root.geometry("515x350")
 
 mainframe = ttk.Frame(root,padding="3 3 12 12")
 mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
