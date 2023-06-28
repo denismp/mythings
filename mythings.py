@@ -1,5 +1,4 @@
-from tkinter import *
-from tkinter import ttk
+from tkinter import N, W, E, S, Frame, Tk, ttk
 from utils.contact_info import ContactInfo
 
 from utils.thing_info import ThingInfo
